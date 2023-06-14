@@ -2,7 +2,7 @@
 title: Calendar of Holy Days and Commemorations in the Anglican Church in North America
 description: 
 published: true
-date: 2023-06-14T00:53:29.631Z
+date: 2023-06-14T02:05:24.202Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T00:45:04.194Z
@@ -45,7 +45,7 @@ dateCreated: 2023-06-14T00:45:04.194Z
 # October
 | Day | Red-Letter Holy Days | Optional Commemorations - Anglican | Optional Commemorations - Ecumenical |
 | :---: | :--------------------: | ---------------------------------- | ------------------------------------------ |
-| 17 | | | [Ignatius](/1st_century/ignatius_of_antioch), *Bishop of Antioch and Martyr*, ca. 115 |
+| 17 | | | [Ignatius](/1st_century/ignatius_of_antioch.md), *Bishop of Antioch and Martyr*, ca. 115 |
 
 # Footnotes / References
 This section adapted from Anglican Church in North America, The Book of Common Prayer (2019) (Huntington Beach, CA: Anglican Liturgy Press, 2019), http://bcp2019.anglicanchurch.net/wp-content/uploads/2019/08/BCP2019.pdf, 691-712.
